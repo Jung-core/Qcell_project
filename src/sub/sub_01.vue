@@ -3,6 +3,7 @@
 	<section class="dashboard">
     <div class="location">
       <h4>発注書登録</h4>
+      <h2>発注書登録</h2>
     </div>
     <div class="contBox">    
       <div style="background:#fff;">
